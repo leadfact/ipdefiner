@@ -12,7 +12,7 @@ After that u can run following command:
 go run main.go
 ```
 
-If u want to output only IP's that are available use following command:
+If u want to output only IP's that are in use. Then use following command:
 
 ```
 go run main.go -u
